@@ -1,0 +1,6 @@
+{
+  "name": "CampusBite - Canteen Pre-Order System",
+  "description": "College canteen food pre-ordering and pickup scheduling system for students and canteen administrators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
